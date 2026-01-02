@@ -11,10 +11,10 @@ This is a Microservice for managing bank accounts, built with Spring Boot.
 - **Lombok**
 - **SpringDoc OpenAPI (Swagger)**
 
-## Architecture
-The following diagram illustrates the architecture of the service:
+## H2 Database Preview
+The following image shows the H2 Database Console:
 
-![Architecture](1.png)
+![H2 Database](1.png)
 
 ## API Documentation
 Once the application is running, you can access the Swagger UI at:
